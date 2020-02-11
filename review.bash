@@ -3,6 +3,17 @@ function filenamify() {
     echo $1 | uconv -x ascii | tr -d '\n' |\
         tr -s '[:blank:][:cntrl:][^!*();:@&=+$,/?#][][]' '-'
 }
+function score_stars() {
+    stars=$(echo $1 | sed -e 's/[.,].*//')
+    emptystars=$((10 - $stars))
+    for i in $(seq $stars) ; do
+        echo -n ★
+    done
+    for i in $(seq $emptystars) ; do
+        echo -n ☆
+    done
+    echo " ($score out of 10)"
+}
 timestamp=$(date --iso-8601)
 read -p "Title of reviewed stuff: " title
 fileid=$(filenamify "$title")
@@ -29,7 +40,11 @@ done
 echo "---" >> $outfile
 echo >> $outfile
 echo "# Flammie reviews: $title" >> $outfile
+echo >> $outfile
 echo "Now just write your review stub in markdown and end with EOF (CTRL-D)"
 while read l ; do
-    echo $l >> $outfile
-done
+    echo $l
+done | fmt >> $outfile
+echo >> $outfile
+echo "> *Score*: $(score_stars $score)" >> $outfile
+
