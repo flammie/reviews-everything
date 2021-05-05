@@ -21,6 +21,13 @@ function score_stars() {
 }
 if ! test -f "$1" ; then
     wget https://www.metacritic.com/user/"$1"
+    for i in $(seq 1 64) ; do
+        if ! wget "https://www.metacritic.com/user/$1?page=$i" -O $1.$i; then
+            break
+        else
+            cat $1.$i >> $1
+        fi
+    done
 fi
 
 fgrep 'product_title"><a' < $1 |\
