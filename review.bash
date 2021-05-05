@@ -17,7 +17,7 @@ function score_stars() {
 timestamp=$(date --iso-8601)
 read -p "Title of reviewed stuff: " title
 fileid=$(filenamify "$title")
-outfile=docs/$timestamp-$fileid.markdown
+outfile=docs/$fileid.markdown
 if ! touch $outfile ; then
     echo "cannot write to $outfile"
     exit 2
