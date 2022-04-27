@@ -29,43 +29,43 @@ while test $# -gt 0 ; do
     shift
 done
 timestamp=$(date --iso-8601)
-read -p "Title of reviewed stuff: " title
+read -r -p "Title of reviewed stuff: " title
 fileid=$(filenamify "$title")
 outfile=docs/$fileid.markdown
-if ! touch $outfile ; then
+if ! touch "$outfile" ; then
     echo "cannot write to $outfile"
     exit 2
 fi
 echo "creating template to $outfile"
-echo "---" > $outfile
-echo "title: \"$title\"" >> $outfile
-echo "date: $timestamp" >> $outfile
-read -p "Score out of 10 (decimals allowed): " score
-echo "score: $score" >> $outfile
-if test x$mode = xfood ; then
-    read -p "Spice out of 10: " chilis
-    echo "spice: $chilis" >> $outfile
+echo "---" > "$outfile"
+echo "title: \"$title\"" >> "$outfile"
+echo "date: $timestamp" >> "$outfile"
+read -p -r "Score out of 10 (decimals allowed): " score
+echo "score: $score" >> "$outfile"
+if test $mode = food ; then
+    read -p -r "Spice out of 10: " chilis
+    echo "spice: $chilis" >> "$outfile"
 fi
 echo "Add new metadata headers?"
 select a in yes no ; do
-    if test x$a = xno ; then
+    if test $a = no ; then
         break
     fi
-    read -p "header name? " header
-    read -p "header value? " value
-    echo "$header: $value" >> $outfile
+    read -p -r "header name? " header
+    read -p -r "header value? " value
+    echo "$header: $value" >> "$outfile"
     echo "Add new metadata headers?"
 done
-echo "---" >> $outfile
-echo >> $outfile
-echo "# Flammie reviews: $title" >> $outfile
-echo >> $outfile
+echo "---" >> "$outfile"
+echo >> "$outfile"
+echo "# Flammie reviews: $title" >> "$outfile"
+echo >> "$outfile"
 echo "Now just write your review stub in markdown and end with EOF (CTRL-D)"
-while read l ; do
-    echo $l
-done | fmt >> $outfile
-echo >> $outfile
-echo "> *Score*: $(score_stars $score)" >> $outfile
-if test -n $chilis ; then
-    echo "> *Spice*: $(score_chilis $chilis)" >> $outfile
+while read -r l ; do
+    echo "$l"
+done | fmt >> "$outfile"
+echo >> "$outfile"
+echo "> *Score*: $(score_stars "$score")" >> "$outfile"
+if test -n "$chilis" ; then
+    echo "> *Spice*: $(score_chilis "$chilis")" >> "$outfile"
 fi
