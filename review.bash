@@ -14,6 +14,20 @@ function score_stars() {
     done
     echo " ($score out of 10)"
 }
+function score_chilis() {
+    chilis=$(echo $1 | sed -e 's/[.,].*//')
+    for i in $(seq $chilis) ; do
+        echo -n 🌶
+    done
+    echo "($chilis out of 10)"
+}
+while test $# -gt 0 ; do
+    case $1 in
+        food) mode=food;;
+        *) echo "Unrecognised command $*"; exit 1;;
+    esac
+    shift
+done
 timestamp=$(date --iso-8601)
 read -p "Title of reviewed stuff: " title
 fileid=$(filenamify "$title")
@@ -28,6 +42,10 @@ echo "title: \"$title\"" >> $outfile
 echo "date: $timestamp" >> $outfile
 read -p "Score out of 10 (decimals allowed): " score
 echo "score: $score" >> $outfile
+if test x$mode = xfood ; then
+    read -p "Spice out of 10: " chilis
+    echo "spice: $chilis" >> $outfile
+fi
 echo "Add new metadata headers?"
 select a in yes no ; do
     if test x$a = xno ; then
@@ -36,6 +54,7 @@ select a in yes no ; do
     read -p "header name? " header
     read -p "header value? " value
     echo "$header: $value" >> $outfile
+    echo "Add new metadata headers?"
 done
 echo "---" >> $outfile
 echo >> $outfile
@@ -47,4 +66,6 @@ while read l ; do
 done | fmt >> $outfile
 echo >> $outfile
 echo "> *Score*: $(score_stars $score)" >> $outfile
-
+if test -n $chilis ; then
+    echo "> *Spice*: $(score_chilis $chilis)" >> $outfile
+fi
