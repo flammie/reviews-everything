@@ -23,7 +23,7 @@ function score_chilis() {
 }
 while test $# -gt 0 ; do
     case $1 in
-        food) mode=food;;
+        spicy) mode=spicy;;
         *) echo "Unrecognised command $*"; exit 1;;
     esac
     shift
@@ -40,19 +40,23 @@ echo "creating template to $outfile"
 echo "---" > "$outfile"
 echo "title: \"$title\"" >> "$outfile"
 echo "date: $timestamp" >> "$outfile"
-read -p -r "Score out of 10 (decimals allowed): " score
+read -r -p "Score out of 10 (decimals allowed): " score
 echo "score: $score" >> "$outfile"
-if test $mode = food ; then
-    read -p -r "Spice out of 10: " chilis
+if test $mode = spicy ; then
+    read -r -p "Spice out of 10: " chilis
     echo "spice: $chilis" >> "$outfile"
 fi
 echo "Add new metadata headers?"
 select a in yes no ; do
+    if test -z $a ; then
+        echo Huh?
+        continue
+    fi
     if test $a = no ; then
         break
     fi
-    read -p -r "header name? " header
-    read -p -r "header value? " value
+    read -r -p "header name? " header
+    read -r -p "header value? " value
     echo "$header: $value" >> "$outfile"
     echo "Add new metadata headers?"
 done
