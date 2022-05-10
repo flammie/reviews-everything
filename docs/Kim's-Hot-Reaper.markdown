@@ -18,5 +18,4 @@ crisps, this is nice enough that I would eat it but would not buy again.
 
 > *Score*: ★★★★★★☆☆☆☆ (6 out of 10)
 > *Spice*: 🌶🌶🌶(3 out of 10)
-
-![Kim's Hot Reaper on Flammie's instagram](https://www.instagram.com/p/CdYNAOVtvFQ/?utm_source=ig_web_button_share_sheet)
+> [Kim's Hot Reaper on Flammie's instagram](https://www.instagram.com/p/CdYNAOVtvFQ/?utm_source=ig_web_button_share_sheet)
