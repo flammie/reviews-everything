@@ -31,7 +31,11 @@ thought of the game in the past, or the same for series of games or what not.
 
 ## Backlog
 
-* [ ] Dragon Quest 10
+Games that: a) I haven't played or b) haven't new game plussed (or DLC or remake
+or such) or c) haven't writen about yet, but I have bought:
+
+* [x] Dragon Quest 1
+* [x] Dragon Quest 2
 * [ ] Dragon Quest 3
 * [ ] Dragon Quest 4
 * [ ] Dragon Quest 5
@@ -39,16 +43,13 @@ thought of the game in the past, or the same for series of games or what not.
 * [ ] Dragon Quest 7
 * [ ] Dragon Quest 8
 * [ ] Dragon Quest 9
-* [ ] Trails of Cold Steel
-* [ ] Trails of Cold Steel 2
-* [ ] Trails of Cold Steel 3
-* [ ] Trails of Cold Steel 4
+* [ ] Dragon Quest 10
 * [x] Final fantasy 1
 * [x] Final fantasy 2
 * [x] Final fantasy 3
-* [x] Final fantasy 4
-* [x] Final fantasy 5
-* [x] Final fantasy 6
+* [ ] Final fantasy 4
+* [ ] Final fantasy 5
+* [ ] Final fantasy 6
 * [x] Final fantasy 7
 * [x] Final fantasy 8
 * [x] Final fantasy 9
@@ -56,5 +57,21 @@ thought of the game in the past, or the same for series of games or what not.
 * [x] Final fantasy X-2
 * [x] Final fantasy XII
 * [x] Final fantasy XIII-2
-* [x] Final fantasy XIII: Lightning Returns
-* [x] Final fantasy XV
+* [ ] Final fantasy XIII: Lightning Returns
+* [ ] Final fantasy XV
+* [x] Metroid 2
+* [x] Metroid Fusion
+* [x] Trails of Cold Steel
+* [ ] Trails of Cold Steel 2
+* [ ] Trails of Cold Steel 3
+* [ ] Trails of Cold Steel 4
+* [x] Zelda 1
+* [ ] Zelda: Adventures of Link
+* [x] Zelda: A link to the Past
+* [ ] Zelda: Link's Awakening
+* [ ] Zelda: Oracle of Ages
+* [ ] Zelda: Oracle of Seasons
+* [ ] Zelda: Minishc Cap
+* [ ] Zelda: Spirit Tracks
+* [ ] Zelda: Breath of the Wild
+* [x] Zelda: Tears of the Kingdom
