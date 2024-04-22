@@ -1,6 +1,6 @@
 #!/bin/bash
 if test $# != 1 ; then
-    echo Usage: $0 USERNAME
+    echo "Usage: $0 USERNAME"
     exit 1
 fi
 
@@ -19,6 +19,8 @@ function score_stars() {
     done
     echo " ($score out of 10)"
 }
+echo newest versions of metacritics have hidden the review texts from crawlers
+exit 1
 if ! test -f "$1" ; then
     wget https://www.metacritic.com/user/"$1"
     for i in $(seq 1 64) ; do
