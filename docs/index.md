@@ -1,11 +1,11 @@
 # Flammie reviews everything
 
-This website contains *reviews* made by [Flammie](../), some made
-specifally for this website and some rescued from other websites, as
-I realise that I shouldn't rely on googles and tripadvisors to archive
-my valuable reviews and ratings, and I want to organise them myself and
-so on and so forth. So that's why I made this website and accompanying
-content management system called: *Flammie reviews everything*
+This website contains *reviews* made by [Flammie](../), some made specifally for
+this website and some rescued from other websites, as I realise that I
+[shouldn't rely on googles](google-fails.html) and tripadvisors to archive my
+valuable reviews and ratings, and I want to organise them myself and so on and
+so forth. So that's why I made this website and accompanying content management
+system called: *Flammie reviews everything*
 
 Sure I am not the best writer in the world or expert of all things but you know,
 it's good archive for myself for reference, often when shopping, travelling or
@@ -22,6 +22,7 @@ about things.
 
 ## Index alphabetically
 
+* [Agenturet Ol og Vinbar](Agenturet-Ol-og-Vinbar.html)
 * [Ara Fell Enhanced Edition](Ara-Fell-Enhanced-Edition.html)
 * [Archlion Saga](Archlion-Saga.html)
 * [Assassin's Creed IV Black Flag](Assassin's-Creed-IV-Black-Flag.html)
@@ -40,7 +41,9 @@ about things.
 * [food](food.html)
 * [games](games.html)
 * [Golf Story](Golf-Story.html)
+* [google fails](google-fails.html)
 * [Jumbo Peanut Ghost Pepper](Jumbo-Peanut-Ghost-Pepper.html)
+* [Kim's Hot Reaper](Kim's-Hot-Reaper.html)
 * [Mama Pad Thai](Mama-Pad-Thai.html)
 * [Metroid Dread](Metroid-Dread.html)
 * [Monster Sanctuary](Monster-Sanctuary.html)
@@ -56,6 +59,7 @@ about things.
 * [Talos Principle](Talos-Principle.html)
 * [Teumsae Stir Fried Ramen](Teumsae-Stir-Fried-Ramen.html)
 * [Tokyo Xanadu Ex ](Tokyo-Xanadu-Ex-.html)
+* [Trails of Cold Steel II](Trails-of-Cold-Steel-II.html)
 * [Trials of Mana](Trials-of-Mana.html)
 * [TRIVIAL PURSUIT Live ](TRIVIAL-PURSUIT-Live-.html)
 * [Yoku's Island Express](Yoku's-Island-Express.html)
