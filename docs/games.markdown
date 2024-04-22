@@ -58,6 +58,7 @@ or such) or c) haven't written about yet. But I have bought all these:
 * [x] Final fantasy 2
 * [x] Final fantasy 3
 * [ ] Final fantasy 4
+* [ ] Final fantasy 4: After years
 * [ ] Final fantasy 5
 * [ ] Final fantasy 6
 * [x] Final fantasy 7
@@ -81,7 +82,8 @@ or such) or c) haven't written about yet. But I have bought all these:
 * [x] Zelda: Link's Awakening
 * [ ] Zelda: Oracle of Ages
 * [ ] Zelda: Oracle of Seasons
-* [ ] Zelda: Minishc Cap
+* [ ] Zelda: Minish Cap
 * [ ] Zelda: Spirit Tracks
 * [ ] Zelda: Breath of the Wild
 * [x] Zelda: Tears of the Kingdom
+
