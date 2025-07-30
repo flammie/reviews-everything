@@ -1,12 +1,5 @@
 #!/bin/bash
 . review-funcs.bash
-while test $# -gt 0 ; do
-    case $1 in
-        spicy) mode=spicy;;
-        *) echo "Unrecognised command $*"; exit 1;;
-    esac
-    shift
-done
 timestamp=$(date --iso-8601)
 read -r -p "Title of reviewed stuff: " title
 fileid=$(filenamify "$title")
@@ -21,10 +14,18 @@ echo "title: \"$title\"" >> "$outfile"
 echo "date: $timestamp" >> "$outfile"
 read -r -p "Score out of 10 (decimals allowed): " score
 echo "score: $score" >> "$outfile"
-if test "$mode" = spicy ; then
+echo "Spicyness?"
+select a in yes no ; do
+    if test -z $a ; then
+        echo Huh?
+        continue
+    fi
+    if test $a = no ; then
+        break
+    fi
     read -r -p "Spice out of 10: " chilis
     echo "spice: $chilis" >> "$outfile"
-fi
+done
 echo "Add new metadata headers?"
 select a in yes no ; do
     if test -z $a ; then
