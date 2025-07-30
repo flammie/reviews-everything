@@ -21,7 +21,7 @@ echo "title: \"$title\"" >> "$outfile"
 echo "date: $timestamp" >> "$outfile"
 read -r -p "Score out of 10 (decimals allowed): " score
 echo "score: $score" >> "$outfile"
-if test $mode = spicy ; then
+if test "$mode" = spicy ; then
     read -r -p "Spice out of 10: " chilis
     echo "spice: $chilis" >> "$outfile"
 fi
