@@ -25,6 +25,7 @@ select a in yes no ; do
     fi
     read -r -p "Spice out of 10: " chilis
     echo "spice: $chilis" >> "$outfile"
+    break
 done
 echo "Add new metadata headers?"
 select a in yes no ; do
