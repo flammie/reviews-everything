@@ -27,6 +27,19 @@ select a in yes no ; do
     echo "spice: $chilis" >> "$outfile"
     break
 done
+echo "Instagram?"
+select a in yes no ; do
+    if test -z $a ; then
+        echo Huh?
+        continue
+    fi
+    if test $a = no ; then
+        break
+    fi
+    read -r -p "Instagram link? " insta_url
+    read -r -p "Instagram embed snippet? " insta_embed
+    break
+done
 echo "Add new metadata headers?"
 select a in yes no ; do
     if test -z $a ; then
@@ -45,6 +58,10 @@ echo "---" >> "$outfile"
 echo >> "$outfile"
 echo "# Flammie reviews: $title" >> "$outfile"
 echo >> "$outfile"
+if test -n "$insta_url" ; then
+    echo "> [$title on my instagram]($insta_url)" >> $outfile
+    echo "$insta_embed" >> $outfile
+fi
 echo "Now just write your review stub in markdown and end with EOF (CTRL-D)"
 while read -r l ; do
     echo "$l"
