@@ -16,6 +16,7 @@ about things.
 
 * [Foods, food products and ingredients](food.html)
 * [PC and video games](games.html)
+* [Metal Travel Guide](metal-travel-guide.html)
 * Places and locations: restaurants, hotels and so on...
 
 
