@@ -7,21 +7,34 @@ recommend or warn about.
 
 # United Kingdom
 
+## London
+
+Probably the metallest area is Camden, though very gentrified these days.
+
+1. Black Heart
+1. Dev (ex Hobgoblin, ex Devonshire Arms)
+
 ## Glasgow
 
 1. [Rufus T Firefly](Rufus-T-Firefly.html), good bar, plays metal
 
 # Germany
 
+Germany is quite metally country but finding a metal bar can be a bit of an
+effort these days. Most cities will have some but not necessarily central.
+
 ## Berlin
+
+The metallest area still is Friedrichshain.
 
 1. [Paule's Metal Eck](Paule-s-Metal-Eck.html), good bar, plays metal, classic,
   avoid when football or sports
+1. Halford
 
 ## Hamburg
 
 I lived in Hamburg 2014–2020, great metal scene, usually always concerts and
-bars.
+bars. The centre of nightlife, including metal, is at Reeperbahn.
 
 1. [Night Light](Night-Light.html), great bar, plays metal, only opens on
    weekends but worth a visit
@@ -35,15 +48,26 @@ bars.
 1. [Headcrash](Headcrash.html), venue, rarely metal, usually avoid
 1. ~~[Grotte](Grotte-Rockbar.html), great metal bar, unfortunately gone~~
 
+## München (Munich)
+
+1. [HopDog](HopDog.html), great bar, good food, sometimes nmetal
+1. [Abseits](Abseits.html), good bar, plays metal, **no** card payment!
+
 # Turkey
 
 ## Istanbul
+
+Both Taksim area in the European side and Kadiköy on the Asian side have some
+night life. My last visit, the Asian side was nicer.
 
 1. [Wizard](Wizard-Pub.html), great bar, plays metal,
 1. [Dorock](Dorock-Heavy-Metal-Club.html), good bar, concert venue,
    usually metal
 
 # Norway
+
+You'd think Norway as a metal country but it really doesn't have much metal bar
+culture going around. Biggest cities will usually have a metal bar.
 
 ## Bergen
 
@@ -60,6 +84,12 @@ and support the bars that play any metal.
 
 # Sweden
 
+Most cities in Sweden will have some metal bars.
+
+## Stockholm
+
+1. Anchor, usually metal, often crowded and often rude bouncers
+
 ## Gothenburg
 
 1. [Rockbaren](Rockbaren.html), decent bar, plays metal
@@ -70,6 +100,8 @@ and support the bars that play any metal.
 ## Budapest
 
 1. [Paranoir](ParaNoir-Pub.html), ok bar, plays metal-ish, odd opening times,
+1. [Barba Negra (track, ...)](Barba-Negra.html), metal venue, seems to be in different place
+   every time, check the booking site
 
 # Czechia
 
@@ -97,14 +129,30 @@ and support the bars that play any metal.
 
 ## Brussels
 
+Not much metal in Brussels.
+
 1. [La Porte Noire](La-Porte-Noire.html), good bar, sometimes metal
 
 # Finland
 
+Finland is surprisingly metally so you wouldn't be surprised to have metal
+playing in an average sports bar, main stream pub or so. Just the most obvious
+hits usually but good enough.
+
 ## Helsinki
 
+1. Base
 1. [Praha](Praha.html), good bar, plays metal
 
+
+# France
+
+## Paris
+
+Paris is not particularly metal that I have found, but the neighbourhood with
+some metal and gay bars is FIXME.
+
+1. [Le Black Dog](Le-Black-Dog.html)
 
 # Nepal
 
@@ -118,3 +166,8 @@ and support the bars that play any metal.
 ## Madrid
 
 1. [Sinner](The-Sinner-Metal-Bar.html), good bar, plays metal
+1. [Mission Metal](Mission-Metal.html), good bar, plays metal
+
+## Santander
+
+1. [La Buhardilla](Pub-La-Buhardilla.html), good bar, plays metal and punk
