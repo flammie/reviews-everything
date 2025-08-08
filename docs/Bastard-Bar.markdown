@@ -15,9 +15,9 @@ then. The draught beer is one of the cheapest in town. If there is sports
 to be seen they may show it on screen, in case you like myself thought
 that dive bars are good place to escape the sports.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Bastard Bar"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x917b1cf9d6e9019f)
----
-> *Score*: ★★★★★★★★☆☆ (8 out of 10)
-> *Address*: "Strandgata 22, 9008 Tromsø, Norja"
-> *Map location*: [18.9542642 69.6473282(OpenStreetMap)](https://www.openstreetmap.org/?mlat=69.6473282&mlon=18.9542642&zoom=12)
+* * *
+- *Score*: ★★★★★★★★☆☆ (8 out of 10)
+- *Address*: "Strandgata 22, 9008 Tromsø, Norja"
+- *Map location*: [18.9542642°N 69.6473282°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=69.6473282&mlon=18.9542642&zoom=12)

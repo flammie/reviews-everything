@@ -40,13 +40,13 @@ while read -r line ; do
     echo >> "$outfile"
     echo "$review" | sed -e 's/^"//' -e 's/"$//' | fmt >> "$outfile"
     echo >> "$outfile"
-    echo "> parts of review were originally posted on [Google Maps page of" \
+    echo "> parts of review were originally posted on [the Google Maps page of" \
         >> "$outfile"
     echo "  $name](${google//\"/})" >> "$outfile"
-    echo "---" >> "$outfile"
-    echo "> *Score*: $(score_stars $score)" >> "$outfile"
-    echo "> *Address*: $address" >> "$outfile"
-    echo -n "> *Map location*: [$long $lat" >> "$outfile"
+    echo "* * *" >> "$outfile"
+    echo "- *Score*: $(score_stars $score)" >> "$outfile"
+    echo "- *Address*: $address" >> "$outfile"
+    echo -n "- *Map location*: [$long°N $lat°E " >> "$outfile"
     echo "(OpenStreetMap)](https://www.openstreetmap.org/?mlat=$lat&mlon=$long&zoom=12)"    >> "$outfile"
 done <  gmaps.names
 

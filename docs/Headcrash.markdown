@@ -14,9 +14,9 @@ downstairs. All in all it's been a bit of letdown, but maybe because
 I'm not a big fan of dancing and it's been very quiet the last times I
 was there.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Headcrash"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc40c050f7b304309)
----
-> *Score*: ★★★★☆☆☆☆☆☆ (4 out of 10)
-> *Address*: "Hamburger Berg 13, 20359 Hamburg, Saksa"
-> *Map location*: [9.9609840 53.5507490(OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5507490&mlon=9.9609840&zoom=12)
+* * *
+- *Score*: ★★★★☆☆☆☆☆☆ (4 out of 10)
+- *Address*: "Hamburger Berg 13, 20359 Hamburg, Saksa"
+- *Map location*: [9.9609840°N 53.5507490°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5507490&mlon=9.9609840&zoom=12)

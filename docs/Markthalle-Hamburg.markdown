@@ -22,9 +22,9 @@ overcomplicated it and it can be messy, you are required to keep a tiny
 piece of paper and a huge clump  of plastic with you throughout the
 night if you want your coat back. If you don't you're in for a tough time.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Markthalle Hamburg"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x365024bdb07ac3a9)
----
-> *Score*: ★★★★★★★★☆☆ (8 out of 10)
-> *Address*: "Klosterwall 11, 20095 Hamburg, Saksa"
-> *Map location*: [10.0068536 53.5494431(OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5494431&mlon=10.0068536&zoom=12)
+* * *
+- *Score*: ★★★★★★★★☆☆ (8 out of 10)
+- *Address*: "Klosterwall 11, 20095 Hamburg, Saksa"
+- *Map location*: [10.0068536°N 53.5494431°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5494431&mlon=10.0068536&zoom=12)

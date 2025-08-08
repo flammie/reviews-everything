@@ -15,7 +15,7 @@ recommend or warn about.
 
 ## Berlin
 
-1. [Paule's Metal Eck](Paule's-Metal-Eck.html), good bar, plays metal, classic,
+1. [Paule's Metal Eck](Paule-s-Metal-Eck.html), good bar, plays metal, classic,
   avoid when football or sports
 
 ## Hamburg
@@ -28,12 +28,12 @@ bars.
 1. [Lunacy](Lunacy.html), ok bar, usually metal
 1. [Bambi Galore](Bambi-galore.html), venue, usually metal
 1. [Hörnerfest](Hornerfest.html), festival, local train trip away around
+   Summer Solstice
 1. [Indra Club](Indra-Club-64.html), venue, sometimes metal
 1. [Markthalle](Markthalle-Hamburg.html), venue, sometimes metal
 1. [Knust](Knust.html), venue, sometimes metal
 1. [Headcrash](Headcrash.html), venue, rarely metal, usually avoid
 1. ~~[Grotte](Grotte-Rockbar.html), great metal bar, unfortunately gone~~
-   Summer Solstice
 
 # Turkey
 
@@ -49,16 +49,21 @@ bars.
 
 1. [Kraken](Kraken.html), good bar, plays metal
 
+## Tromsø
+
+I live in Tromsø 2020–, not much of a metal scene, we take every concert we can
+and support the bars that play any metal.
+
+1. [Bastard](Bastard-Bar.html), good bar, every now and then metal (but probably
+   best in town anyways)
+1. Blå Rock, good burgers, not really metal at all
+
 # Sweden
 
 ## Gothenburg
 
 1. [Rockbaren](Rockbaren.html), decent bar, plays metal
 
-## Tromsø
-
-1. [Bastard](Bastard-Bar.html), good bar, every now and then metal (but probably
-   best in town anyways)
 
 # Hungary
 
@@ -71,7 +76,7 @@ bars.
 ## Praha
 
 1. [ERROR](Metal-Bar-ERROR.html), great bar, plays metal, "speakeasy"
-1. [Hells Bells](Hells-Bells-Rockin'-Pub.html), good bar, plays metal, mostly
+1. [Hells Bells](Hells-Bells-Rockin-Pub.html), good bar, plays metal, mostly
    tourists
 
 
@@ -86,7 +91,7 @@ bars.
 
 ## Toronto
 
-1. [Coalition](Coalition-T.O..html)
+1. [Coalition](Coalition-T-O-.html)
 
 # Belgium
 

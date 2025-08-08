@@ -12,9 +12,9 @@ people, we usually meet nice folk every time we go there. The beer's
 cheap and music's good, definitely a place to visit if you like metal
 and are around Reeperbahn area.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Lunacy"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe701664c347c276e)
----
-> *Score*: ★★★★★★★★★★ (10 out of 10)
-> *Address*: "Hamburger Berg 25, 20359 Hamburg, Saksa"
-> *Map location*: [9.9615758 53.5507745(OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5507745&mlon=9.9615758&zoom=12)
+* * *
+- *Score*: ★★★★★★★★★★ (10 out of 10)
+- *Address*: "Hamburger Berg 25, 20359 Hamburg, Saksa"
+- *Map location*: [9.9615758°N 53.5507745°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5507745&mlon=9.9615758&zoom=12)

@@ -2,7 +2,7 @@
 # common functions for Flammie reviews everything
 function filenamify() {
     echo $1 | uconv -x ascii | tr -d '\n' |\
-        tr -s '[:blank:][:cntrl:][^!*();:@&=+$,/?#][][]' '-'
+        tr -s '[:blank:][:cntrl:][^!*().'\''\\{|};:@&=+$,/?#][][]' '-'
 }
 function score_stars() {
     stars=$(echo $1 | sed -e 's/[.,].*//')
@@ -20,6 +20,6 @@ function score_chilis() {
     for i in $(seq $chilis) ; do
         echo -n 🌶
     done
-    echo "($chilis out of 10)"
+    echo " ($chilis out of 10)"
 }
 

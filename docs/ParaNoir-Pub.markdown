@@ -17,9 +17,9 @@ at you all every now and then. And also they sold us beers few minutes
 before closing time and just told us they were closing after we got the
 beers which was just strange.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "ParaNoir Pub"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe2f347ab68adb16e)
----
-> *Score*: ★★★★★★★★☆☆ (8 out of 10)
-> *Address*: "Budapest, Hársfa utca 41, 1074 Unkari"
-> *Map location*: [19.0695048 47.5017465(OpenStreetMap)](https://www.openstreetmap.org/?mlat=47.5017465&mlon=19.0695048&zoom=12)
+* * *
+- *Score*: ★★★★★★★★☆☆ (8 out of 10)
+- *Address*: "Budapest, Hársfa utca 41, 1074 Unkari"
+- *Map location*: [19.0695048°N 47.5017465°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=47.5017465&mlon=19.0695048&zoom=12)

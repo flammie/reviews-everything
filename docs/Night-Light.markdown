@@ -13,9 +13,9 @@ that packed most of the time, beer's cheap as everywhere, music is good,
 very often actual real heavy metal and not just top10 from mtv heavy
 metal, dj's are nice too and can play stuff.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Night Light"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x318f7d6492945e1)
----
-> *Score*: ★★★★★★★★★★ (10 out of 10)
-> *Address*: "Gerhardstraße 5, 20359 Hamburg, Saksa"
-> *Map location*: [9.9611222 53.5478820(OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5478820&mlon=9.9611222&zoom=12)
+* * *
+- *Score*: ★★★★★★★★★★ (10 out of 10)
+- *Address*: "Gerhardstraße 5, 20359 Hamburg, Saksa"
+- *Map location*: [9.9611222°N 53.5478820°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5478820&mlon=9.9611222&zoom=12)

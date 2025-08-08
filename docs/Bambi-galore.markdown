@@ -17,9 +17,9 @@ concert ads and tickets may use either name for either venue. There's
 no sitting places! Me like most of the metal crowd we are getting too
 old to stand up for extended periods of time.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Bambi galore"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x61a07a37b00f6c41)
----
-> *Score*: ★★★★★★★★★★ (10 out of 10)
-> *Address*: "Öjendorfer Weg 30A, 22119 Hamburg, Saksa"
-> *Map location*: [10.1102650 53.5422214(OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5422214&mlon=10.1102650&zoom=12)
+* * *
+- *Score*: ★★★★★★★★★★ (10 out of 10)
+- *Address*: "Öjendorfer Weg 30A, 22119 Hamburg, Saksa"
+- *Map location*: [10.1102650°N 53.5422214°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.5422214&mlon=10.1102650&zoom=12)

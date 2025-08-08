@@ -14,9 +14,9 @@ too bad. The music is usually metal and rock that is suitable for most
 people i.e. nothing extreme either way, but I think there is a jukebox
 when it's not a concert night.
 
-> parts of review were originally posted on [Google Maps page of
+> parts of review were originally posted on [the Google Maps page of
   "Fibber Magees"](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa9e461e298020e37)
----
-> *Score*: ★★★★★★★★★★ (10 out of 10)
-> *Address*: "80-81 Parnell St, Rotunda, Dublin 1, D01 CK74, Irlanti"
-> *Map location*: [-6.2604780 53.3528722(OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.3528722&mlon=-6.2604780&zoom=12)
+* * *
+- *Score*: ★★★★★★★★★★ (10 out of 10)
+- *Address*: "80-81 Parnell St, Rotunda, Dublin 1, D01 CK74, Irlanti"
+- *Map location*: [-6.2604780°N 53.3528722°E (OpenStreetMap)](https://www.openstreetmap.org/?mlat=53.3528722&mlon=-6.2604780&zoom=12)
