@@ -1,4 +1,4 @@
-# Flammie’s Tromsø travel guide
+# Flammie’s Tromsø
 
 Tromsø is a city in north Norway, that I live in and that is a touristic
 destination. It is a small city even in Norwegian scale, so there is not awfully

@@ -19,5 +19,6 @@ about things.
 * [Metal Travel Guide](metal-travel-guide.html)
 * Places and locations:
     * [Tromsø travel guide](tromso.html)
+    * [Hamburg travel guide](hamburg.html)
 
 

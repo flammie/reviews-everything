@@ -19,6 +19,7 @@ about things.
 * [Metal Travel Guide](metal-travel-guide.html)
 * Places and locations:
     * [Tromsø travel guide](tromso.html)
+    * [Hamburg travel guide](hamburg.html)
 
 
 
@@ -122,6 +123,7 @@ about things.
 * [Grotte Rockbar](Grotte-Rockbar.html)
 * [Habana Bar](Habana-Bar.html)
 * [Hamburger Zentrum fur Sprachkorpora](Hamburger-Zentrum-fur-Sprachkorpora.html)
+* [hamburg](hamburg.html)
 * [Hard Rock Hotel Casino Las Vegas](Hard-Rock-Hotel-Casino-Las-Vegas.html)
 * [Headcrash](Headcrash.html)
 * [Hello B B](Hello-B-B.html)
