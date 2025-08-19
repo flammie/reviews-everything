@@ -20,5 +20,6 @@ about things.
 * Places and locations:
     * [Tromsø travel guide](tromso.html)
     * [Hamburg travel guide](hamburg.html)
+    * [Dublin travel guide](dublin.html)
 
 

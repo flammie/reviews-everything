@@ -20,6 +20,7 @@ about things.
 * Places and locations:
     * [Tromsø travel guide](tromso.html)
     * [Hamburg travel guide](hamburg.html)
+    * [Dublin travel guide](dublin.html)
 
 
 
@@ -92,6 +93,7 @@ about things.
 * [Dos Amigos Restaurantbetrieb GmbH](Dos-Amigos-Restaurantbetrieb-GmbH.html)
 * [Dragon Quest II Luminaries of the Legendary Line](Dragon-Quest-II-Luminaries-of-the-Legendary-Line.html)
 * [Dublin Irish Pub](Dublin-Irish-Pub.html)
+* [dublin](dublin.html)
 * [Earthlock](Earthlock.html)
 * [El Coscorron](El-Coscorron.html)
 * [Espresso house](Espresso-house.html)
