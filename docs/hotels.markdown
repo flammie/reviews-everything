@@ -119,6 +119,27 @@ Any casino on strip or Fremont street should be just fine.
 * [Zebra Hostel](Zebra-Hostel.html), very hostel, very mid, but at least back in
   the days Milano didn't used to have much options
 
+# Berlin
+
+* [ibis budget Berlin Ost](ibis-budget-Berlin-Ost.html), avoid, very far and
+  not very good at all
+
+# Zürich
+
+* [ibis-budget-Zurich-Airport](ibis-budget-Zurich-Airport.html), cheap and near,
+  few stops on tram or walking distance
+
+# Barcelona
+
+* [ibis Barcelona Aeropuerto
+  Viladecans](ibis-Barcelona-Aeropuerto-Viladecans.html), airport hotel but a
+  bit far and not very suitable for layovers
+
+# Wien
+
+* [A&O Wien Stadthalle](a-o-Hostel-Wien-Stadthalle.html), bit off centre but
+  good and cheap
+
 # Санкт петербург (St. Petersburg)
 
 * [Nevsky](Nevsky-Central-Hotel.html), nice and cheap and central
