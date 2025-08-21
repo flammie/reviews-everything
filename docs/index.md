@@ -17,6 +17,7 @@ about things.
 * [Foods, food products and ingredients](food.html)
 * [PC and video games](games.html)
 * [Metal Travel Guide](metal-travel-guide.html)
+* [Airports](airports.html)
 * Places and locations:
     * [Tromsø travel guide](tromso.html)
     * [Hamburg travel guide](hamburg.html)
@@ -31,6 +32,7 @@ about things.
 * [African Restaurant Exotic Tropical Restaurant and Bar](African-Restaurant-Exotic-Tropical-Restaurant-and-Bar.html)
 * [Agenturet Ol og Vinbar](Agenturet-Ol-og-Vinbar.html)
 * [Aifur](Aifur.html)
+* [airports](airports.html)
 * [Alameda Restaurante](Alameda-Restaurante.html)
 * [Alanya import Huseyin Kartay](Alanya-import-Huseyin-Kartay.html)
 * [Alibi Craft Beer Kitchen](Alibi-Craft-Beer-Kitchen.html)
@@ -142,6 +144,7 @@ about things.
 * [Hotel Arthur](Hotel-Arthur.html)
 * [Hotel Belle Epoque Beach](Hotel-Belle-Epoque-Beach.html)
 * [Hotell Skeppsbron](Hotell-Skeppsbron.html)
+* [hotels](hotels.html)
 * [Hotel Star Inn Lisbon Airport](Hotel-Star-Inn-Lisbon-Airport.html)
 * [Hotel Stern](Hotel-Stern.html)
 * [Hot Wok City](Hot-Wok-City.html)

@@ -17,6 +17,7 @@ about things.
 * [Foods, food products and ingredients](food.html)
 * [PC and video games](games.html)
 * [Metal Travel Guide](metal-travel-guide.html)
+* [Airports](airports.html)
 * Places and locations:
     * [Tromsø travel guide](tromso.html)
     * [Hamburg travel guide](hamburg.html)
