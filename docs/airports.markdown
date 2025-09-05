@@ -75,8 +75,18 @@ hotels are nice and affordable (in Norwegian terms), but all the affordable
 hotels are a long walk or expensive bus journey away. There is a nice hotel at
 the airport terminals if you get a good deal.
 
-* [TGIF Gardemoen](T-G-I-Fridays-Oslo-Airport.html), avoid, absolutely
-  nightmarish service and food quality
+* ~~[TGIF Gardemoen](T-G-I-Fridays-Oslo-Airport.html), avoid, absolutely
+  nightmarish service and food quality~~ has been replaced by another O'Leary's
+  with long queue times
+
+# LJU: Ljubljana
+
+Ljubljana is a tiny airport for a capital city airport, probably not
+overnightable but there ain't many flights either. The tax free shopping area
+doubles as only "cafeteria", you can get beers and sandwichy things. I'd
+recommend to avoid using extra time if possible but since it's far from city and
+taxis are overpriced you'll probably be forced to take one or other unoptimal
+bus.
 
 # STN: Stansted
 
